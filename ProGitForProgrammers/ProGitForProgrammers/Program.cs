@@ -9,6 +9,7 @@ namespace ProGitForProgrammer
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("I just added this in Visual Studio");
+            Console.WriteLine("This Line and to show the staging area");
         }
 
 
